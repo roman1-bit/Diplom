@@ -1,6 +1,4 @@
-![Test Framework](https://img.shields.io/badge/Framework-pytest-green)
-![Platform](https://img.shields.io/badge/Platform-Kinopoisk-orange)
-![Language](https://img.shields.io/badge/Language-Python-blue)
+
 
 # 🎬 Diplom - Автоматизированное тестирование Кинопоиска
 
